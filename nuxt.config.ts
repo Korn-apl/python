@@ -1,4 +1,4 @@
-import vuetify from "./vuetify";
+import vuetify from "./plugins/vuetify";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
